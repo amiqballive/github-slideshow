@@ -11,3 +11,6 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+This is my first learning experience in GitHub learning Lab.
+It's more like a fun.
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1b7824f463546139901ec2d329304fd)](https://www.codacy.com/manual/sales_5/Hello-World?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amiqballive/Hello-World&amp;utm_campaign=Badge_Grade)
